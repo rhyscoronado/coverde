@@ -1,4 +1,0 @@
-# Allowed words for documentation files
-codecov
-codefactor
-Karlo

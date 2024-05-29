@@ -1,7 +1,0 @@
-# Allowed words for Dart files
-canonicalize
-csslib
-endtemplate
-mocktail
-pana
-writeln

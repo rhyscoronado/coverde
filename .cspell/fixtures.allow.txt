@@ -1,2 +1,0 @@
-# Allowed words for fixture files
-endtemplate
